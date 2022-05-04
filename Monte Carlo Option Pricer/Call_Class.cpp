@@ -1,3 +1,5 @@
+//author : Ludovic de Villelongue
+
 #include <iostream>
 #include <algorithm>
 #include <utility>
@@ -11,7 +13,7 @@ int main() {
 	//create an object for the class Call_Put_Option
 	Call_Put_Option Option1;
 
-	//define înput variables
+	//define Ã®nput variables
 	double Spot;
 	double Strike;
 	double Riskfree;
