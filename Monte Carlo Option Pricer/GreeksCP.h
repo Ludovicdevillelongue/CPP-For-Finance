@@ -1,3 +1,5 @@
+//author : Ludovic de Villelongue
+
 #pragma once
 
 #include <string>
