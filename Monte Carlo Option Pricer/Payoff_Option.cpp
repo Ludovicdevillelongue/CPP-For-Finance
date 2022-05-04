@@ -1,3 +1,5 @@
+//author : Ludovic de Villelongue
+
 #include "Payoff_Option.h"
 #include "GreeksCP.h"
 #include <algorithm>
